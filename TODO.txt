@@ -1,0 +1,12 @@
+[X] > Make this be like an actual open source project
+-> Package manager support
+-> Repository formatting
+
+[X] > More optimizations (i know crazy specific)
+
+[X] > Add asynchronous threading support (if wanted) to the stepped callback
+-> With thread pooling and stuff, shouldn't be too hard
+
+[X] > Make sure this works lmao
+
+[X] > Add ui modifier support
