@@ -2,6 +2,3 @@
 
 #luau lsp
 default.project.json
-
-#builds
-bin
