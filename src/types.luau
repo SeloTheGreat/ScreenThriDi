@@ -1,4 +1,6 @@
-export type fn_SteppedCallback = (self: Component3D, dt: number) -> ()
+export type fn_SteppedCallback = {
+	[number]: ((self: Component3D, dt: number) -> ()) | (boolean?) | (number?)
+}
 
 export type Screen3D = {
 	partIndex: {[GuiObject]: Component3D},

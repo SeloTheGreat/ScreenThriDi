@@ -34,6 +34,11 @@ end
 
 local screenGen = {}
 
+--Used with <code>Component3D:Enable(a)</code>
+function screenGen.createStepped(fn: (self: types.Component3D, dt: number) -> (), async: boolean?, rate: number?): types.fn_SteppedCallback
+	return { fn, async, rate, rate and os.clock() }
+end
+
 function screenGen.new(screenGui: ScreenGui, displayDistance: number): types.Screen3D
 	local partIndex = {}
 

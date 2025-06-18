@@ -1,13 +1,9 @@
-[0/3] > Make this be like an actual open source project
--> Package manager support (this could be split into multiple TODOs)
+[0/4] > Make this be like an actual open source project
+-> Package manager support eugh
 -> Repository formatting
--> Tests and benchmarks i guess
+-> Docs
+-> Tests and benchmarks i guess???
 
-[0/1] > Optimizations (i know crazy specific)
+[0/?] > Optimizations (i know crazy specific)
 
-[0/1] > Add asynchronous threading support (if wanted) to the stepped callback
--> With thread pooling and stuff, shouldn't be too hard
-
-[?] > Make sure this works lmao
-
-[0/1] > Add ui modifier support (could be split into more)
+[0/?] > Add ui modifier support (could be split into more)

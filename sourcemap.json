@@ -1,0 +1,1 @@
+{"name":"ScreenThriDi","className":"ModuleScript","filePaths":["src\\init.luau","default.project.json"],"children":[{"name":"Component3D","className":"ModuleScript","filePaths":["src\\Component3D.luau"]},{"name":"Process","className":"ModuleScript","filePaths":["src\\Process.luau"]},{"name":"types","className":"ModuleScript","filePaths":["src\\types.luau"]}]}

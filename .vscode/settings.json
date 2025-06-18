@@ -1,3 +1,4 @@
 {
-    "luau-lsp.sourcemap.enabled": true
+    "luau-lsp.sourcemap.enabled": true,
+    "luau-lsp.sourcemap.rojoPath": "C:\\Users\\Admin\\.aftman\\bin\\rojo.exe"
 }
